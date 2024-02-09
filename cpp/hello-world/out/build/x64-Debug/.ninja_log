@@ -1,0 +1,5 @@
+# ninja log v5
+11	265	7292189225133725	CMakeFiles/hello-world.dir/hello_world.cpp.obj	8fa89d81992f1004
+4	731	7292188937764416	CMakeFiles/hello-world.dir/hello_world_test.cpp.obj	81f1da48fa1add7e
+10	3053	7292188960918837	CMakeFiles/hello-world.dir/test/tests-main.cpp.obj	8fb4bfb8a1c6dbc4
+266	385	7292189226069499	hello-world.exe	ba912434feb97fe8
