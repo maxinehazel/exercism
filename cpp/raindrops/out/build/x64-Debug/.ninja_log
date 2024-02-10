@@ -1,0 +1,25 @@
+# ninja log v5
+12	277	7292329368667478	CMakeFiles/raindrops.dir/raindrops.cpp.obj	92043d9f235e1b49
+5	572	7292323721927138	CMakeFiles/raindrops.dir/raindrops_test.cpp.obj	f0d9bc8353e861a8
+12	2561	7292323741748623	CMakeFiles/raindrops.dir/test/tests-main.cpp.obj	7a62d8217249fe6b
+406	449	0	CMakeFiles/test_raindrops	78cbff3cf101398d
+277	406	7292329369662485	raindrops.exe	dc2cc89b811ce890
+406	449	0	C:/Users/krebs/repos/exercism/cpp/raindrops/out/build/x64-Debug/CMakeFiles/test_raindrops	78cbff3cf101398d
+9	745	7292943336165906	CMakeFiles/raindrops.dir/raindrops.cpp.obj	92043d9f235e1b49
+745	968	7292943337954191	raindrops.exe	dc2cc89b811ce890
+2	576	7292943681037994	CMakeFiles/raindrops.dir/raindrops_test.cpp.obj	f0d9bc8353e861a8
+576	821	7292943683100711	raindrops.exe	dc2cc89b811ce890
+9	434	7292943979572913	CMakeFiles/raindrops.dir/raindrops.cpp.obj	92043d9f235e1b49
+435	567	7292943980616881	raindrops.exe	dc2cc89b811ce890
+16	448	7292946141240651	CMakeFiles/raindrops.dir/raindrops.cpp.obj	92043d9f235e1b49
+448	593	7292946142318130	raindrops.exe	dc2cc89b811ce890
+593	635	0	CMakeFiles/test_raindrops	78cbff3cf101398d
+593	635	0	C:/Users/krebs/repos/exercism/cpp/raindrops/out/build/x64-Debug/CMakeFiles/test_raindrops	78cbff3cf101398d
+10	433	7292946397095066	CMakeFiles/raindrops.dir/raindrops.cpp.obj	92043d9f235e1b49
+434	562	7292946398103612	raindrops.exe	dc2cc89b811ce890
+562	602	0	CMakeFiles/test_raindrops	78cbff3cf101398d
+562	602	0	C:/Users/krebs/repos/exercism/cpp/raindrops/out/build/x64-Debug/CMakeFiles/test_raindrops	78cbff3cf101398d
+9	431	7292946539778667	CMakeFiles/raindrops.dir/raindrops.cpp.obj	92043d9f235e1b49
+432	562	7292946540814127	raindrops.exe	dc2cc89b811ce890
+562	599	0	CMakeFiles/test_raindrops	78cbff3cf101398d
+562	599	0	C:/Users/krebs/repos/exercism/cpp/raindrops/out/build/x64-Debug/CMakeFiles/test_raindrops	78cbff3cf101398d
