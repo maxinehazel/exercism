@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "roman-numerals",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "roman-numerals::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-roman-numerals-Debug-ea35392197e1b202cd23.json",
+					"name" : "roman-numerals",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_roman-numerals::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_roman-numerals-Debug-e47ac1e9ba7ac4794e83.json",
+					"name" : "test_roman-numerals",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/krebs/repos/exercism/cpp/roman-numerals/out/build/x64-Debug",
+		"source" : "C:/Users/krebs/repos/exercism/cpp/roman-numerals"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

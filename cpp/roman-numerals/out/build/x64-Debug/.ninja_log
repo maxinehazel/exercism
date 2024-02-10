@@ -1,0 +1,18 @@
+# ninja log v5
+5	521	7292952251896943	CMakeFiles/roman-numerals.dir/roman_numerals.cpp.obj	dc523f0c966c69ba
+2	816	7292952254849684	CMakeFiles/roman-numerals.dir/roman_numerals_test.cpp.obj	8491926ad521b4c
+8	2746	7292952274080112	CMakeFiles/roman-numerals.dir/test/tests-main.cpp.obj	31758eb29e3ca9bd
+2746	3116	7292952277650963	roman-numerals.exe	18fbcb3db67dcb29
+9	272	7292955746301268	CMakeFiles/roman-numerals.dir/roman_numerals.cpp.obj	dc523f0c966c69ba
+272	483	7292955748082813	roman-numerals.exe	18fbcb3db67dcb29
+484	526	0	CMakeFiles/test_roman-numerals	455295920c1acc9d
+484	526	0	C:/Users/krebs/repos/exercism/cpp/roman-numerals/out/build/x64-Debug/CMakeFiles/test_roman-numerals	455295920c1acc9d
+12	264	7292956206559140	CMakeFiles/roman-numerals.dir/roman_numerals.cpp.obj	dc523f0c966c69ba
+9	561	7292956209516393	CMakeFiles/roman-numerals.dir/roman_numerals_test.cpp.obj	8491926ad521b4c
+561	709	7292956210725255	roman-numerals.exe	18fbcb3db67dcb29
+709	749	0	CMakeFiles/test_roman-numerals	455295920c1acc9d
+709	749	0	C:/Users/krebs/repos/exercism/cpp/roman-numerals/out/build/x64-Debug/CMakeFiles/test_roman-numerals	455295920c1acc9d
+9	571	7292956354883382	CMakeFiles/roman-numerals.dir/roman_numerals_test.cpp.obj	8491926ad521b4c
+572	791	7292956356705664	roman-numerals.exe	18fbcb3db67dcb29
+2	270	7292961444634317	CMakeFiles/roman-numerals.dir/roman_numerals.cpp.obj	dc523f0c966c69ba
+271	401	7292961445644019	roman-numerals.exe	18fbcb3db67dcb29
