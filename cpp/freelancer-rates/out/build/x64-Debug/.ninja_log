@@ -1,0 +1,22 @@
+# ninja log v5
+3	559	7293211811510030	CMakeFiles/freelancer-rates.dir/freelancer_rates_test.cpp.obj	dd62fd26f4c2f41c
+6	2463	7293211830481095	CMakeFiles/freelancer-rates.dir/test/tests-main.cpp.obj	b191dfb426975b27
+2463	2814	7293211833863440	freelancer-rates.exe	d2d4437ea4f990c9
+10	560	7293211928202597	CMakeFiles/freelancer-rates.dir/freelancer_rates_test.cpp.obj	dd62fd26f4c2f41c
+561	777	7293211929923953	freelancer-rates.exe	d2d4437ea4f990c9
+11	558	7293213213472376	CMakeFiles/freelancer-rates.dir/freelancer_rates_test.cpp.obj	dd62fd26f4c2f41c
+559	688	7293213214460722	freelancer-rates.exe	d2d4437ea4f990c9
+11	554	7293213568041786	CMakeFiles/freelancer-rates.dir/freelancer_rates_test.cpp.obj	dd62fd26f4c2f41c
+555	768	7293213569752444	freelancer-rates.exe	d2d4437ea4f990c9
+11	578	7293214940956537	CMakeFiles/freelancer-rates.dir/freelancer_rates_test.cpp.obj	dd62fd26f4c2f41c
+579	721	7293214942085239	freelancer-rates.exe	d2d4437ea4f990c9
+4	554	7293215574629789	CMakeFiles/freelancer-rates.dir/freelancer_rates_test.cpp.obj	dd62fd26f4c2f41c
+555	769	7293215576361289	freelancer-rates.exe	d2d4437ea4f990c9
+11	560	7293216042413523	CMakeFiles/freelancer-rates.dir/freelancer_rates_test.cpp.obj	dd62fd26f4c2f41c
+561	687	7293216043381313	freelancer-rates.exe	d2d4437ea4f990c9
+3	560	7293220213855241	CMakeFiles/freelancer-rates.dir/freelancer_rates_test.cpp.obj	dd62fd26f4c2f41c
+560	779	7293220215610708	freelancer-rates.exe	d2d4437ea4f990c9
+3	561	7293222026324611	CMakeFiles/freelancer-rates.dir/freelancer_rates_test.cpp.obj	dd62fd26f4c2f41c
+562	693	7293222027333942	freelancer-rates.exe	d2d4437ea4f990c9
+3	824	7293228142331427	CMakeFiles/freelancer-rates.dir/freelancer_rates_test.cpp.obj	dd62fd26f4c2f41c
+825	1054	7293228144158594	freelancer-rates.exe	d2d4437ea4f990c9
