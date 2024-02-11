@@ -1,0 +1,16 @@
+# ninja log v5
+3	543	7293202258851586	CMakeFiles/lasagna.dir/lasagna_test.cpp.obj	9dc30b8e62eef5ef
+7	2479	7293202278139238	CMakeFiles/lasagna.dir/test/tests-main.cpp.obj	eaf2e22f19c5058
+2479	2827	7293202281476117	lasagna.exe	4c7281c0a46c1b1f
+4	551	7293203993542010	CMakeFiles/lasagna.dir/lasagna_test.cpp.obj	9dc30b8e62eef5ef
+551	685	7293203994586485	lasagna.exe	4c7281c0a46c1b1f
+11	559	7293204533747335	CMakeFiles/lasagna.dir/lasagna_test.cpp.obj	9dc30b8e62eef5ef
+559	777	7293204535514757	lasagna.exe	4c7281c0a46c1b1f
+11	552	7293205033071327	CMakeFiles/lasagna.dir/lasagna_test.cpp.obj	9dc30b8e62eef5ef
+553	682	7293205034063452	lasagna.exe	4c7281c0a46c1b1f
+11	560	7293205683766089	CMakeFiles/lasagna.dir/lasagna_test.cpp.obj	9dc30b8e62eef5ef
+560	787	7293205685609977	lasagna.exe	4c7281c0a46c1b1f
+11	554	7293206540206419	CMakeFiles/lasagna.dir/lasagna_test.cpp.obj	9dc30b8e62eef5ef
+554	682	7293206541204120	lasagna.exe	4c7281c0a46c1b1f
+3	542	7293207342173751	CMakeFiles/lasagna.dir/lasagna_test.cpp.obj	9dc30b8e62eef5ef
+542	756	7293207343875147	lasagna.exe	4c7281c0a46c1b1f
