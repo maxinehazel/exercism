@@ -1,0 +1,10 @@
+# ninja log v5
+7	2475	7293233851649446	CMakeFiles/last-will.dir/test/tests-main.cpp.obj	4070dbdec103870d
+4	558	7293235611332016	CMakeFiles/last-will.dir/last_will_test.cpp.obj	95dcd621e026b9cc
+559	916	7293235614699730	last-will.exe	93ad8f4c077fb8b5
+11	561	7293237840810872	CMakeFiles/last-will.dir/last_will_test.cpp.obj	95dcd621e026b9cc
+561	690	7293237841825239	last-will.exe	93ad8f4c077fb8b5
+12	585	7293238439863062	CMakeFiles/last-will.dir/last_will_test.cpp.obj	95dcd621e026b9cc
+585	807	7293238441661875	last-will.exe	93ad8f4c077fb8b5
+4	555	7293242176119451	CMakeFiles/last-will.dir/last_will_test.cpp.obj	95dcd621e026b9cc
+555	690	7293242177156024	last-will.exe	93ad8f4c077fb8b5
