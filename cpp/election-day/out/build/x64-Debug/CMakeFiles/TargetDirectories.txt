@@ -1,0 +1,4 @@
+C:/Users/krebs/repos/exercism/cpp/election-day/out/build/x64-Debug/CMakeFiles/election-day.dir
+C:/Users/krebs/repos/exercism/cpp/election-day/out/build/x64-Debug/CMakeFiles/test_election-day.dir
+C:/Users/krebs/repos/exercism/cpp/election-day/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/krebs/repos/exercism/cpp/election-day/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/krebs/repos/exercism/cpp/ellens-alien-game/out/build/x64-Debug"
+			"value" : "c:/Users/krebs/repos/exercism/cpp/troll-the-trolls/out/build/x64-Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -355,7 +355,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/krebs/repos/exercism/cpp/ellens-alien-game/out/build/x64-Debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/krebs/repos/exercism/cpp/troll-the-trolls/out/build/x64-Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/krebs/repos/exercism/cpp/ellens-alien-game"
+			"value" : "C:/Users/krebs/repos/exercism/cpp/troll-the-trolls"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -427,7 +427,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/krebs/repos/exercism/cpp/ellens-alien-game/out/install/x64-Debug"
+			"value" : "C:/Users/krebs/repos/exercism/cpp/troll-the-trolls/out/install/x64-Debug"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -611,7 +611,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "ellens-alien-game"
+			"value" : "troll-the-trolls"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -954,7 +954,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "ellens-alien-game_BINARY_DIR",
+			"name" : "troll-the-trolls_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -963,10 +963,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/krebs/repos/exercism/cpp/ellens-alien-game/out/build/x64-Debug"
+			"value" : "C:/Users/krebs/repos/exercism/cpp/troll-the-trolls/out/build/x64-Debug"
 		},
 		{
-			"name" : "ellens-alien-game_IS_TOP_LEVEL",
+			"name" : "troll-the-trolls_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -978,7 +978,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "ellens-alien-game_SOURCE_DIR",
+			"name" : "troll-the-trolls_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -987,7 +987,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/krebs/repos/exercism/cpp/ellens-alien-game"
+			"value" : "C:/Users/krebs/repos/exercism/cpp/troll-the-trolls"
 		}
 	],
 	"kind" : "cache",
