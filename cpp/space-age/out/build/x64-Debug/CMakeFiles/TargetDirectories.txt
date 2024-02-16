@@ -1,0 +1,4 @@
+C:/Users/krebs/repos/exercism/cpp/space-age/out/build/x64-Debug/CMakeFiles/space-age.dir
+C:/Users/krebs/repos/exercism/cpp/space-age/out/build/x64-Debug/CMakeFiles/test_space-age.dir
+C:/Users/krebs/repos/exercism/cpp/space-age/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/krebs/repos/exercism/cpp/space-age/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
