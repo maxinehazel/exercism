@@ -1,18 +1,23 @@
 #include "pangram.h"
-#include <algorithm>
+#include <map>
+#include <cctype>
 
 namespace pangram {
 
-bool is_pangram(std::string text) { 
-  if (text == "") {
-    return false;
-  }
+	bool is_pangram(std::string text) {
+		if (text == "") {
+			return false;
+		}
 
-  std::string reverse_text = text;
+		std::map<char, int> char_count{};
 
-  std::reverse(reverse_text.begin(), reverse_text.end());
+		for (auto c : text) {
+			if (std::isalpha(c)) {
+				++char_count[std::tolower(c)];
+			}
+		}
 
-  return text == reverse_text;
-}
+		return char_count.size() == 26;
+	}
 
 } // namespace pangram
